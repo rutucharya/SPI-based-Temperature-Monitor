@@ -4,7 +4,6 @@ This project will aim at design and implemention of a SPI-based temperature moni
  using the industry-standard SPI protocol, convert the data to a human readable format (deg-C) and drive a set of 7-segment display to display the data. In order to test the Verilog code in real-time application, the Verilog code will be synthesized into a Xilinx's Spartan FPGA board. This will allow the students to test their Verilog code in real time.
  
 
-![tempMonitor-blockDiag-v1-0322](https://user-images.githubusercontent.com/98079644/231081754-86ca6e32-0ec8-4e98-8781-10b4726a049a.png)
 
 ## Installation of Xilinx Design Suite and Ahmy Software
 -	For downloading and installing the Xilinx Design Suite and AHMY Software click on the [link]( https://drive.google.com/drive/folders/11K3pKGRTGL41oUaIt80uNTADWgc_MmPZ).
