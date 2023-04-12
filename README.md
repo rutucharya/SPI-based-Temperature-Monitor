@@ -31,14 +31,14 @@ This project will aim at design and implemention of a SPI-based temperature moni
  
 ### Step 2:
 - A new project navigation window will appear with desired file name.
-- In project navigation window, right click on the hierarchy code (e.g., xc6slx9-2tqg144) and click on "New Source" and specify the name of the program.
+- In project navigation window, right click on the hierarchy code ```(e.g., xc6slx9-2tqg144)``` and click on ```New Source``` and specify the name of the program.
 - After clicking next a **New source wizard** window will appear. 
-- In **New source wizard** window, click on "Verilog Module". Provide the file name and location and then click on "Next"
+- In **New source wizard** window, click on ```Verilog Module```. Provide the file name and location and then click on ```Next```
 - In the next window provide the input, output or bus ports required in the code(optional).
-- In "New Source" window, write the respective verilog code and click on "Save".
-- Right click on the source file and click on "Set as Top Module". This enables us to test and synthesize the code completely, otherwise only syntax check is possible.   
-- Click on "yes and continue".
-- Click on "Check Syntax" in **Process Window** below and run other simulation options.
+- In "New Source" window, write the respective verilog code and click on ```Save```.
+- Right click on the source file and click on ```Set as Top Module```. This enables us to test and synthesize the code completely, otherwise only syntax check is possible.   
+- Click on ```yes and continue```.
+- Click on ```Check Syntax``` in **Process Window** below and run other simulation options.
 
 ### Step 3: 
 - After syntax check, right click on the Verilog file name and click on "New Source".
