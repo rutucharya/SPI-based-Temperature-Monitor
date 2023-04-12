@@ -50,7 +50,7 @@ This project will aim at design and implemention of a SPI-based temperature moni
 ### Step 4:
 - Under **Process Window**, right click on ```Generate Programming File``` and click on ```Rerun all```. This will lead to the synthesis of the code. 
 - Now click on ```Configure Target Device```.
-- A dialogue box will appear click on ```ok```.
+- A dialogue box will appear click on ```Ok```.
 - An **ISE Impact** window will appear.
 - On the top-left corner click on the ```IMPACT Flows```.
 - Now click on ```Boundary Scan```.
